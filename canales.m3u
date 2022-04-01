@@ -17,14 +17,3 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 
 
 
-
-#EXTINF:-1   tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png", 13 Entretencion 
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1  tvg-name="13 Prime" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png", 13 Prime 
-https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries 
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
