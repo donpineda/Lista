@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red 
+https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="79045" tvg-name="Meganoticias" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="84048" tvg-name="TVN 24 Horas" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png", 13 Entretencion 
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1  tvg-name="13 Prime" tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png", 13 Prime 
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png", 13 Teleseries 
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
