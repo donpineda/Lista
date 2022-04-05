@@ -23,8 +23,8 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQM
 
 
 
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="Undefined",Canal 13 (720p) [Geo-blocked]
-http://canal13-m3u.chorroaeboy.repl.co
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="Undefined",Canal 13 
+https://mdstrm.com/live-stream-playlist/5f51a916c21eec083ab337a8.m3u8?uid=zHyOQMWlrnwY6s8G0FUUFvv0ByKu2W8g&sid=G0kjcL3dGR2iQnr4wjLYGaDzDXkcOnqP&pid=r5f8EBMLiDpBvSvPdQd2Uz8rqvyexguv&an=13cl-player&at=web-app&av=v5.2.234&ref=https%3A%2F%2Fwww.13.cl%2F&res=770x433&without_cookies=false&listenerid=&dnt=true&access_token=pg0Fp8KcD5xF0dRFkWkq1KlzTKHYG0dROpgXB8INHE0USBzgNFkynt46vsjZazfW1OOdC2Qh3w1&adInsertionSessionId=a60cdb2e-d14e-4bcd-acfd-b79f13e5dcef
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+
