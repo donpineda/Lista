@@ -17,6 +17,12 @@ https://marine2.miplay.cl/chilevision/playlist.m3u8
 https://marine2.miplay.cl/mega/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
 https://marine2.miplay.cl/tvn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png", TV CHILE
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQMWlrnwY6s8G0FUUFvv0ByKu2W8g&sid=G0kjcL3dGR2iQnr4wjLYGaDzDXkcOnqP&pid=fbRuxOkIwnqG8QwEaVSZj5I369ksIQhA&an=screen&at=web-app&av=v5.2.234&ref=https%3A%2F%2Fwww.tvn.cl%2F&res=829x466&without_cookies=false&listenerid=&dnt=true
+
+
+
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="Undefined",Canal 13 (720p) [Geo-blocked]
 http://canal13-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV
