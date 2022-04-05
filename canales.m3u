@@ -37,13 +37,12 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ocbRhw13yZU/YD59yD7KV1I/AAAAAAABAfA/YTu015L36W07t8HVpzWdjgAYJvY3a42QgCK8BGAsYHg/s512/2021-03-02.jpg", TV 5 Linares
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png", ADN 
+#EXTINF:-1  tvg-name="ADN" tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png", ADN 
 https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
 
 
-#EXTINF:-1 tvg-id="424" tvg-name="HBO" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo.svg", HBO
-
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo.svg", HBO
 https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
