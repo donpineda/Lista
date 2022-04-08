@@ -7,8 +7,11 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT (FHD)
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png", UA TV (FHD)
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red (FHD)
 https://marine2.miplay.cl/lared/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV (HD)
