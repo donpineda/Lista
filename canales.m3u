@@ -15,6 +15,13 @@ https://marine2.miplay.cl/lared/playlist.m3u8
 https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega (HD)
 https://marine2.miplay.cl/mega/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega ( FULL HD)
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/e3c6a4d4e421462baf807f90073f8722/manifest/f624fec49dadc88894ebeff1d974eab019af7757/53d2c1a32640614e62a0e000/c13ef128-db76-40b2-ad7c-df09a0b09c83/5.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=zHyOQMWlrnwY6s8G0FUUFvv0ByKu2W8g&sid=yAHLUigBzAkxBIe0xHwJhuibkfkTjvwZ&pid=ag90PwPIiqE76oUdLkQaJNOGWin6WrNw&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=0JQtggU49y3lRowqpZ6ORLLXJntZW5c8QBPBVH2K5TwYi719hkld4LSP4Qq13vcarvIJkuG6cNZ&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1649475425337&ot=jHt72RzgwOJBOCDznsKNXQ&proto=https&pz=cl
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN (HD)
 https://marine2.miplay.cl/tvn/playlist.m3u8
 
