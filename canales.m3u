@@ -20,6 +20,10 @@ https://marine2.miplay.cl/chilevision/playlist.m3u8
 https://marine2.miplay.cl/mega/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/SYGV0j6.jpg" group-title="Undefined",Canal 13 (HD) 
+http://canal13-m3u.chorroaeboy.repl.co
+
+
 
 
 
