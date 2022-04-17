@@ -41,9 +41,18 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQM
 
 
 
-#EXTINF:-1 tvg-logo="https://www-storage.13.cl/c13/13go/image/logos-13p.svg", Canal 13 Prime (HD)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime (HD)
 https://unlimited1-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
+
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion (HD)
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries(HD)
+https://unlimited2-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 
 
