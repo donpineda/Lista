@@ -36,6 +36,19 @@ https://marine2.miplay.cl/tvn/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQMWlrnwY6s8G0FUUFvv0ByKu2W8g&sid=G0kjcL3dGR2iQnr4wjLYGaDzDXkcOnqP&pid=fbRuxOkIwnqG8QwEaVSZj5I369ksIQhA&an=screen&at=web-app&av=v5.2.234&ref=https%3A%2F%2Fwww.tvn.cl%2F&res=829x466&without_cookies=false&listenerid=&dnt=true
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www-storage.13.cl/c13/13go/image/logos-13p.svg", Canal 13 Prime (HD)
+https://unlimited1-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV (SD)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
