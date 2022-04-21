@@ -20,7 +20,7 @@ https://marine2.miplay.cl/chilevision/playlist.m3u8
 https://marine2.miplay.cl/mega/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CHI || Canal 13 HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="CHILE ",CHI || Canal 13 HD (E)
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 13 HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="CHILE ", Canal 13 HD (E)
 http://newultra.xyz:8080/978410224/0224x/39794
 
 
@@ -29,12 +29,8 @@ http://newultra.xyz:8080/978410224/0224x/39794
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name=" TVN FHD  (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="CHILE ",CHI || TVN FHD  (U)
-http://newultra.xyz:8080/978410224/0224x/39802
-#EXTINF:-1 tvg-id="" tvg-name=" TVN HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="CHILE ",CHI || TVN HD (E)
-http://newultra.xyz:8080/978410224/0224x/39803
-#EXTINF:-1 tvg-id="" tvg-name=" TVN HD (U)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="CHILE ",CHI || TVN HD (U)
-http://newultra.xyz:8080/978410224/0224x/39801
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN (HD)
+https://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -72,6 +68,11 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+ (FHD)
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile_HD op" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" ,CNN Chile_HD op
+http://newultra.xyz:8080/978410224/0224x/39151
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas(HD)
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
