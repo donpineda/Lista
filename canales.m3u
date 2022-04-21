@@ -23,10 +23,8 @@ https://marine2.miplay.cl/mega/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 13 HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="CHILE ", Canal 13 HD (E)
 http://newultra.xyz:8080/978410224/0224x/39794
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 13 | CL" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png" group-title="GEO CHILE REGIONALES ",Canal 13 | CL
-http://newultra.xyz:8080/978410224/0224x/66600
-
-
+#EXTINF:-1 tvg-id="" tvg-name=" TVN HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="CHILE ", TVN HD (E)
+http://newultra.xyz:8080/978410224/0224x/39803
 
 
 
