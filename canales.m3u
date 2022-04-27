@@ -36,8 +36,6 @@ https://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png", TV CHILE (HD)
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQMWlrnwY6s8G0FUUFvv0ByKu2W8g&sid=G0kjcL3dGR2iQnr4wjLYGaDzDXkcOnqP&pid=fbRuxOkIwnqG8QwEaVSZj5I369ksIQhA&an=screen&at=web-app&av=v5.2.234&ref=https%3A%2F%2Fwww.tvn.cl%2F&res=829x466&without_cookies=false&listenerid=&dnt=true
 
 
 
@@ -45,29 +43,11 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?uid=zHyOQM
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime (HD)
-https://unlimited1-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion (HD)
-https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries(HD)
-https://unlimited2-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/87c6e7bb59c33bfab71e154181716e90.png", UCV (SD)
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+ (FHD)
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Espanol_Chile SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS",CNN Espanol_Chile SD
 http://newultra.xyz:8080/978410224/0224x/39150
@@ -87,8 +67,6 @@ http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ocbRhw13yZU/YD59yD7KV1I/AAAAAAABAfA/YTu015L36W07t8HVpzWdjgAYJvY3a42QgCK8BGAsYHg/s512/2021-03-02.jpg", TV 5 Linares (HD)
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://lh3.googleusercontent.com/-H20emk-_gGE/Xb2CvlkCsVI/AAAAAAAAr6c/MvhdPSgNp4I1Q9QAGlqEvJp4QRnyorpkgCK8BGAsYHg/s0/2019-11-02.png", ADN (FHD)
-https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
