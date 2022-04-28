@@ -70,3 +70,22 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY CHANNEL HD (lt)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY CHANNEL HD (lt)
+http://newultra.xyz:8080/978410224/0224x/10307
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY CHANNEL SD LAT. (ec)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY CHANNEL SD LAT. (ec)
+http://newultra.xyz:8080/978410224/0224x/10308
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| History FHD (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| History FHD (co)
+http://newultra.xyz:8080/978410224/0224x/10309
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY HD Lat. (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY HD Lat. (co)
+http://newultra.xyz:8080/978410224/0224x/10310
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY HD  (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY HD  (co)
+http://newultra.xyz:8080/978410224/0224x/10311
+
+#EXTINF:-1 tvg-id="" tvg-name="CUL| History SD" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| History SD
+http://newultra.xyz:8080/978410224/0224x/10312
+
+
