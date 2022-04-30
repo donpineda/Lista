@@ -1,45 +1,30 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fqdCC1PQsjQ/XbC1rzkVu6I/AAAAAAAArmE/eB5FcH8qqZkgXsnzuStsuYTohDPRfNMdQCK8BGAsYHg/s0/2019-10-23.png", Ufrovision (HD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fqdCC1PQsjQ/XbC1rzkVu6I/AAAAAAAArmE/eB5FcH8qqZkgXsnzuStsuYTohDPRfNMdQCK8BGAsYHg/s0/2019-10-23.png", Ufrovision
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
-#EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-RfITnpTfEz4/YKmDDqHhEvI/AAAAAAABCd4/QZ7_BVwPR3ou-_In9JbR1JeIk97H4irGACK8BGAsYHg/s512/2021-05-22.jpg", Temuco TV (SD)
+#EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-RfITnpTfEz4/YKmDDqHhEvI/AAAAAAABCd4/QZ7_BVwPR3ou-_In9JbR1JeIk97H4irGACK8BGAsYHg/s512/2021-05-22.jpg", Temuco TV 
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT (FHD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT 
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png", UA TV (FHD)
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png", UA TV 
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red (FHD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red 
 https://marine2.miplay.cl/lared/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV (HD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV 
 https://marine2.miplay.cl/chilevision/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV Full HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/5.ts
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD *" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV Full HD *
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9753.ts
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/6.ts
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD *" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD *
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9049.ts
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV HD **" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="Chile",CL: CHV HD **
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9754.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega (HD)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega 
 https://marine2.miplay.cl/mega/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name=" Canal 13 HD (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" group-title="CHILE ", Canal 13 HD (E)
-http://newultra.xyz:8080/978410224/0224x/39794
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile", Canal 13 
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/3.ts
 
 
 
@@ -67,9 +52,8 @@ https://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol_Chile SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="NOTICIAS",CNN Espanol_Chile SD
-http://newultra.xyz:8080/978410224/0224x/39150
-
+#EXTINF:-1 tvg-id="CL CNN CHILE" tvg-name="CNN Chile HD" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png" group-title="Noticias",CNN Chile 
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/7464.ts
 
 
 
@@ -88,17 +72,7 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY CHANNEL HD (lt)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY CHANNEL HD (lt)
-http://newultra.xyz:8080/978410224/0224x/10307
 
-#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY CHANNEL SD LAT. (ec)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY CHANNEL SD LAT. (ec)
-http://newultra.xyz:8080/978410224/0224x/10308
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL| History FHD (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| History FHD (co)
-http://newultra.xyz:8080/978410224/0224x/10309
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY HD Lat. (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY HD Lat. (co)
-http://newultra.xyz:8080/978410224/0224x/10310
 
 #EXTINF:-1 tvg-id="" tvg-name="CUL| HISTORY HD  (co)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL| HISTORY HD  (co)
 http://newultra.xyz:8080/978410224/0224x/10311
