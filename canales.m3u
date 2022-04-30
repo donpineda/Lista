@@ -74,10 +74,27 @@ http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL FOX" tvg-name="Star Channel Full HD (Fox)" tvg-logo="http://www.marketersbyadlatina.com/uploads/-5774-Star-Channel.jpg" ,Star Channel HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/89.ts
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/55.ts
 
 
+#EXTINF:-1 tvg-id="CL TNT" tvg-name="CL: TNT HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png" group-title="Chile",TNT HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/56.ts
 
+#EXTINF:-1 tvg-id="CL SPACE" tvg-name="CL: Space HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title="Chile",Space HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9709.ts
+
+#EXTINF:-1 tvg-id="CL CINECANAL" tvg-name="CL: Cinecanal HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png" group-title="Chile",Cinecanal HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9722.ts
+
+
+#EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",Nat Geo HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/51.ts
+
+#EXTINF:-1 tvg-id="CL DISCOVERY HOME HEALTH" tvg-name="CL: Discovery Home & Health Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Chile",Discovery Home & HealthHD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9033.ts
+
+#EXTINF:-1 tvg-id="CL EL GOURMET" tvg-name="CL: El Gourmet HD" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title="Chile", El Gourmet HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9106.ts
 
 
 
