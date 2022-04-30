@@ -23,6 +23,9 @@ https://marine2.miplay.cl/chilevision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega 
 https://marine2.miplay.cl/mega/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus Full HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",Mega Plus FHD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/1644.ts
+
 #EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile", Canal 13 
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/3.ts
 
