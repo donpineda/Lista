@@ -77,14 +77,20 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/55.ts
 
 
-#EXTINF:-1 tvg-id="CL TNT" tvg-name="CL: TNT HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/tnt.png" group-title="Chile",TNT HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/56.ts
+
 
 #EXTINF:-1 tvg-id="CL SPACE" tvg-name="CL: Space HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title="Chile",Space HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9709.ts
 
 #EXTINF:-1 tvg-id="CL CINECANAL" tvg-name="CL: Cinecanal HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png" group-title="Chile",Cinecanal HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9722.ts
+
+#EXTINF:-1 tvg-id="CL HISTORY" tvg-name="History Channel HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Culturales",History Channel HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9530.ts
+
+
+#EXTINF:-1 tvg-id="CL HISTORY" tvg-name="History Channel HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Culturales",History Channel HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9530.ts
 
 
 #EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",Nat Geo HD
