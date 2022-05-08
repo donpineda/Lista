@@ -3,8 +3,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fqdCC1PQsjQ/XbC1rzkVu6I/AAAAAAAArmE/eB5FcH8qqZkgXsnzuStsuYTohDPRfNMdQCK8BGAsYHg/s0/2019-10-23.png", Ufrovision HD
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
+
 #EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-RfITnpTfEz4/YKmDDqHhEvI/AAAAAAABCd4/QZ7_BVwPR3ou-_In9JbR1JeIk97H4irGACK8BGAsYHg/s512/2021-05-22.jpg", Temuco TV SD 
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT 
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
@@ -76,6 +78,9 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",History HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/12184.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CL: H2 HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Chile",CL: H2 HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13508.ts
 
 
 #EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",Nat Geo HD
