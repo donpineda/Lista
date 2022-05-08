@@ -77,8 +77,8 @@ https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",History HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/12184.ts
 
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/12184.t
 #EXTINF:-1 tvg-id="CO H2 HD" tvg-name="H2 Full HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/8866.ts
 
