@@ -100,6 +100,9 @@ http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9709.ts
 #EXTINF:-1 tvg-id="CL CINECANAL" tvg-name="CL: Cinecanal HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png" group-title="Chile",Cinecanal HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9722.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CL: Cinemax" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinemax.png" group-title="Chile",CL: Cinemax
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13504.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="CL: HBO HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title="Chile",CL: HBO HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13503.ts
 
