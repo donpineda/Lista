@@ -89,8 +89,8 @@ http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9722.ts
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9530.ts
 
 
-#EXTINF:-1 tvg-id="CL HISTORY" tvg-name="History Channel HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Culturales",History Channel HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9530.ts
+#EXTINF:-1 tvg-id="" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",History HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/12184.ts
 
 
 #EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",Nat Geo HD
