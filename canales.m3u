@@ -111,6 +111,9 @@ http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13504.ts
 #EXTINF:-1 tvg-id="" tvg-name="CL: HBO HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/hbo.png" group-title="Chile",CL: HBO HD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13503.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CL: AXN HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png" group-title="Chile",CL: AXN HD
+http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13509.ts
+
 
 
 
