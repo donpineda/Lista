@@ -8,21 +8,6 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red FHD
 https://marine2.miplay.cl/lared/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV HD
-https://marine2.miplay.cl/chilevision/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega HD
-https://marine2.miplay.cl/mega/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus Full HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",Mega Plus FHD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/1644.ts
-
-
-
-#EXTINF:-1 tvg-id="CL CNN CHILE" tvg-name="CNN Chile HD" tvg-logo="http://logos.iptv.wtf/chile/cnnchile.png" group-title="Noticias",CNN Chile HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/7464.ts
 
 
 
