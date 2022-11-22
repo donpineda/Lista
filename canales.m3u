@@ -7,11 +7,8 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 #EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://lh3.googleusercontent.com/-RfITnpTfEz4/YKmDDqHhEvI/AAAAAAABCd4/QZ7_BVwPR3ou-_In9JbR1JeIk97H4irGACK8BGAsYHg/s512/2021-05-22.jpg", Temuco TV SD 
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b5STpV7frCc/YHxqEk9aHxI/AAAAAAABBqs/CXWLe5jLyfgXXBgOSzhqb5sSUpn_A6K8ACK8BGAsYHg/s512/2021-04-18.png", TV UCT 
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4f091f5c6fccbcd410cdc98e452bcb3b.png", UA TV FHD
-https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red FHD
@@ -27,33 +24,6 @@ https://marine2.miplay.cl/mega/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CL MEGA PLUS" tvg-name="CL: Mega Plus Full HD" tvg-logo="http://logos.iptv.wtf/chile/megaplus.png" group-title="Chile",Mega Plus FHD
 http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/1644.ts
-
-#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="Chile", Canal 13 HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/3.ts
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN HD
-https://marine2.miplay.cl/tvn/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -76,42 +46,14 @@ http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/tv5/tv5.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CL: History HD" tvg-logo="http://logos.iptv.wtf/culturales/history.png" group-title="Chile",History HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/12184.ts
-
-#EXTINF:-1 tvg-id="CO H2 HD" tvg-name="H2 Full HD" tvg-logo="http://logos.iptv.wtf/culturales/history2.png" group-title="Culturales",H2 HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/8866.ts
-
-
-
-#EXTINF:-1 tvg-id="CL NATGEO" tvg-name="CL: Nat Geo HD" tvg-logo="http://logos.iptv.wtf/culturales/natgeo.png" group-title="Chile",Nat Geo HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/51.ts
-
-#EXTINF:-1 tvg-id="CL DISCOVERY HOME HEALTH" tvg-name="CL: Discovery Home & Health Full HD" tvg-logo="http://logos.iptv.wtf/culturales/discoveryhh.png" group-title="Chile",Discovery Home & HealthHD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9033.ts
-
-#EXTINF:-1 tvg-id="CL EL GOURMET" tvg-name="CL: El Gourmet HD" tvg-logo="http://logos.iptv.wtf/culturales/elgourmet.png" group-title="Chile", El Gourmet HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9106.ts
-
-
-#EXTINF:-1 tvg-id="CL FOX" tvg-name="Star Channel Full HD (Fox)" tvg-logo="http://www.marketersbyadlatina.com/uploads/-5774-Star-Channel.jpg" ,Star Channel HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/55.ts
 
 
 
 
-#EXTINF:-1 tvg-id="CL SPACE" tvg-name="CL: Space HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/space.png" group-title="Chile",Space HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9709.ts
-
-#EXTINF:-1 tvg-id="CL CINECANAL" tvg-name="CL: Cinecanal HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/cinecanal.png" group-title="Chile",Cinecanal HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/9722.ts
-
-s
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CL: AXN HD" tvg-logo="http://logos.iptv.wtf/entretenimiento/axn.png" group-title="Chile",AXN HD
-http://live.iptv.wtf:80/live/ajafxles/uAL09b4dr2/13509.ts
+
 
 
 
