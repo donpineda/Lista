@@ -1,5 +1,7 @@
 
 
+#EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://lh3.googleusercontent.com/-xqKe__ypgDY/XnzFn9NLnbI/AAAAAAAAxMU/2Wj9IOC1LaQxtJGRzcVOTrQWxP9z3RgPwCK8BGAsYHg/s0/2020-03-26.png", Mega | CL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -8,6 +10,12 @@
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red FHD
 https://marine2.miplay.cl/lared/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1232" tvg-name="CHV Contigo" tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png", CHV Contigo | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV Noticias" tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png", CHV Noticias | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
 
 
 
