@@ -30,6 +30,9 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/CNN_Chile_logo_2017.svg", CNN Chile
+https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+
 
 
 
