@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8K1Ms1u8WoR1IhodwxjK0nLqRdFJbH_p3Qw&s" group-title="Canales Nacionales", CHV
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Mega_%28canal_de_televisi%C3%B3n_de_Chile%29" group-title="Canales Nacionales", Mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/250px-Logotipo_de_Mega_%282020-%29.svg.png" group-title="Canales Nacionales", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Canales Nacionales", Canal 13
