@@ -11,19 +11,16 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png" group-title="Canales Nacionales", CHV Noticias
-https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" group-title="Canales Nacionales", TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png?20231023043804
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png" group-title="Canales Nacionales", T13
-https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png" group-title="Canales Nacionales", Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/CNN_Chile_logo_2017.svg" group-title="Canales Nacionales", CNN Chile
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/2048px-CNN_Chile_logo_2017.svg.png" group-title="Canales Nacionales", CNN Chile
 https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
 
