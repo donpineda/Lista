@@ -11,13 +11,11 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" group-title="Canales Nacionales", TVN 24 Horas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/24_horas_2023_logo.png/200px-24_horas_2023_logo.png" group-title="Canales Nacionales", TVN 24 Horas
 https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png?20231023043804
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png" group-title="Canales Nacionales", Meganoticias
-http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/2048px-CNN_Chile_logo_2017.svg.png" group-title="Canales Nacionales", CNN Chile
 https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
