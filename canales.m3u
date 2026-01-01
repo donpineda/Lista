@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8K1Ms1u8WoR1IhodwxjK0nLqRdFJbH_p3Qw&s", CHV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png", CHV
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
