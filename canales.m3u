@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8K1Ms1u8WoR1IhodwxjK0nLqRdFJbH_p3Qw&s", CHV
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=vfVpl96kIym27X1try9EUiqhQBlJMCkt&pid=keHhoO6ZkRX8HTeF2I3dAGmyR3ClvOPg&pid_dvr=fhpZ2u93BUSkuwr42zpRkkkCRJfeROGZ&an=mdstrm-player&at=web-app&av=v6.0.243&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=968x545&without_cookies=false&listenerid=&dnt=true&access_token=WZkzJG3JAgwYUltMwEOEi3JFHMYH6JOTAILnW5Yx1N0tm9Pn6JeRslJuFyFznCkN7X1ZyNukb8Z&adInsertionGoogleStreamId=b718f5bf-1734-4df5-86b0-634b2cecbc1f:SCL2&CMCD=cid%3D%2263ee47e1daeeb80a30d98ef4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22keHhoO6ZkRX8HTeF2I3dAGmyR3ClvOPg%22%2Csu
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/250px-Logotipo_de_Mega_%282020-%29.svg.png", Mega
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png", Canal 13
