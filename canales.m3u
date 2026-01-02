@@ -24,7 +24,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chilevision%20noticias.png", CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
-#EXTINF:-1 tv  tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovision 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovision 
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 
 
