@@ -1,30 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png", CHV
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CHV" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png",CHV
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
+#EXTINF:-1 tvg-id="mega.cl" tvg-name="Mega" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png", Canal 13
+#EXTINF:-1 tvg-id="canal13.cl" tvg-name="Canal 13" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png",Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tvn.png", TVN
+#EXTINF:-1 tvg-id="tvn.cl" tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tvn.png",TVN
 https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/24%20horas.png", TVN 24 Horas
+#EXTINF:-1 tvg-id="tvn24.cl" tvg-name="TVN 24 Horas" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/24%20horas.png",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png", CNN Chile
+#EXTINF:-1 tvg-id="cnnchile.cl" tvg-name="CNN Chile" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png",CNN Chile
 https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/t13.png", T13
+#EXTINF:-1 tvg-id="t13.cl" tvg-name="T13" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/t13.png",T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chilevision%20noticias.png", CHV Noticias
+#EXTINF:-1 tvg-id="chvnoticias.cl" tvg-name="CHV Noticias" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chilevision%20noticias.png",CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovision 
+#EXTINF:-1 tvg-id="ufrovision.cl" tvg-name="Ufrovisión" tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png",Ufrovision
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
+
 
 
