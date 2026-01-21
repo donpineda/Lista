@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png", CHV
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=XSiUVPL0BYTJxDH5QWEqFrzhKbPajjkV&pid=4pSovX2IWobzJjcGNmRFdoVtwsLYiqFF&pid_dvr=iLIYtIrMhSH8NYpNZw9BbqVskNXSw77J&an=mdstrm-player&at=web-app&av=v6.0.251&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=968x545&without_cookies=false&listenerid=&dnt=true&access_token=F7FcFdzPOirhLPOaDIdyonVugfsBhuxQItb8OuPg5p5LeShbkMBGxQoNz8K6VOj9PBP5BpCQReo&CMCD=cid%3D%226491ced935a5833c47dd7f41%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224pSovX2IWobzJjcGNmRFdoVtwsLYiqFF%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
