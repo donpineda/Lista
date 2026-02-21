@@ -1,22 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png", CHV
-https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=nrwA45xX0LBKcRy81AXMlAE5MniHyrLM&pid=jQBoMAQ6vByfZZJYd9sl1rVqseX1Wtjy&pid_dvr=wVJoZeRZNWzu1EkvxrwjRoUZJrbAXY2a&an=mdstrm-player&at=web-app&av=v6.0.265&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=806x453&without_cookies=false&listenerid=&dnt=true&access_token=yOvjFavR6YsUNszOx8mDiAsLKrNrOSsOlswTTvEwcwP2usk8ks5ebUaGJx6M5qBq8hDYao2K0b8&adInsertionGoogleStreamId=90ca66bb-314a-4eaf-aaec-c28e782d94d7:SCL2&CMCD=cid%3D%2263ee47e1daeeb80a30d98ef4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jQBoMAQ6vByfZZJYd9sl1rVqseX1Wtjy%22%2Csu
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png", Canal 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png", Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/canal%2013.png", Canal 13 FHD
-http://38.250.127.17:9800/play/a067/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tvn.png", TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=nrwA45xX0LBKcRy81AXMlAE5MniHyrLM&pid=IgmO4FdSr1TQbrVYozUU0KdRnLMxcvNz&pid_dvr=TKwD0HFwhRfw49TMgrbHZC8z08s0r6ix&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.265&ref=https%3A%2F%2Flive.tvn.cl%2F&res=912x538&without_cookies=false&listenerid=&dnt=true&access_token=PYoVbwYfOJA1IrO3Zzr9BDUJu2M0sn1teCqgBV1zNEiE9m41ZinlHyRGmZQzyOKaHle07Ok5ABu&adInsertionGoogleStreamId=23bfd554-fc1a-40eb-afaa-91e3aaf0a140:SCL2&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22IgmO4FdSr1TQbrVYozUU0KdRnLMxcvNz%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/24%20horas.png", TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png", CNN Chile
 https://jireh-10-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
