@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chv.png", CHV
-https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=lBHB38uotQnQKdYgxTn43EQA37HtuQlJ&pid=fCy0CUPr8JAasuBr4ir3mVjjX2TeI8jG&pid_dvr=oT2DgzONPZn96N9k6NYJ0BliepIdh3Dk&an=mdstrm-player&at=web-app&av=v6.0.265&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=806x453&without_cookies=false&listenerid=&dnt=true&access_token=Ow5FGbvQ0uNMoHf8m971JKaQvShmCnRzYAAQiL5Z1WsRO0RNNYio44pAO7dBEFaH47JsvzyH4ih&adInsertionGoogleStreamId=a11536c9-861c-4ec1-9fe1-5f426b1accb5:SCL2&CMCD=cid%3D%2263ee47e1daeeb80a30d98ef4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fCy0CUPr8JAasuBr4ir3mVjjX2TeI8jG%22%2Csu
+https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=nrwA45xX0LBKcRy81AXMlAE5MniHyrLM&pid=jQBoMAQ6vByfZZJYd9sl1rVqseX1Wtjy&pid_dvr=wVJoZeRZNWzu1EkvxrwjRoUZJrbAXY2a&an=mdstrm-player&at=web-app&av=v6.0.265&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=806x453&without_cookies=false&listenerid=&dnt=true&access_token=yOvjFavR6YsUNszOx8mDiAsLKrNrOSsOlswTTvEwcwP2usk8ks5ebUaGJx6M5qBq8hDYao2K0b8&adInsertionGoogleStreamId=90ca66bb-314a-4eaf-aaec-c28e782d94d7:SCL2&CMCD=cid%3D%2263ee47e1daeeb80a30d98ef4%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22jQBoMAQ6vByfZZJYd9sl1rVqseX1Wtjy%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/mega.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
