@@ -10,7 +10,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tvn.png", TVN
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?uid=7De8HOoBy7oTAageHMZjbrc5BHN1UovC&sid=JGIEnj3nxCf4sOTesoIFRi3Zm7KUe640&pid=VbTvEN2NZLgrYyIvPzMJNXYcJtrcTCT8&pid_dvr=MpHeONZ6VnSyU874S2T0EcRmYhB0Ltxc&an=tvn-play-app-lg-tv&at=web-app&av=v6.0.271&ref=https%3A%2F%2Fwww.tvn.cl%2Fen-vivo&res=1415x821&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225346f657c1e6f5810b5b9df3%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22VbTvEN2NZLgrYyIvPzMJNXYcJtrcTCT8%22%2Csu
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/24%20horas.png", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
@@ -32,5 +32,3 @@ https://mediacp.nnw.cl:19360/temucotelevision/Source.m3u8
 
 
 
-#EXTINF:-1 , Mara
-https://drive.google.com/drive/u/1/folders/1Bdbhmv5b5rMgv3w3PkEwG0Lnr7MFFWRo
