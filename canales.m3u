@@ -16,13 +16,13 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png", CNN Chile
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8
+https://jireh-19-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/cnn/livestream0/chunks.m3u8?dpssid=b2151365997669e01adda80ad&sid=ba5t1l1xb28602082206a80f9d26fc4a&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/t13.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/chilevision%20noticias.png", CHV Noticias
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+https://jireh-12-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/chvn/livestream0/chunks.m3u8?dpssid=b2151365997669e01adda80ad&sid=ba5t1l1xb215261067156a80f980eb1c3&ndvc=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovisión 
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
