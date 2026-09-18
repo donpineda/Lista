@@ -18,7 +18,7 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png", CNN Chile
-https://www.youtube.com/watch?v=NxzwB7GOJmc
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1789771006/ei/nmitavCHFZPn1sQP2dD90AU/ip/191.119.76.25/id/NxzwB7GOJmc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/bui/AR3QkAka8Zhz2Qh0LIWnIufJRIHmvU8FNg761UmStKkj3ZqTpbJVDQgBRrdO8PegeXTZwTJ3amnleSDy/spc/I-rgIUvDvKlDKI9t7yFeY50jSofQJz-XkZXtuS2G0d7vPTeGjtSWKGw44w/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIhAMyhxaMFx4BzSeDWJmYwuDdAB1S2yKE39gEcdwjjA_7UAiA8NihWQtfarFDX3JsWfXY01nw8v68Sn_-dp-O3gsWgcA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/t13.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
@@ -29,8 +29,6 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovisión 
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/Temuco.png", Temuco Televisión
-https://mediacp.nnw.cl:19360/temucotelevision/Source.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tntsportspremium.png", TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
