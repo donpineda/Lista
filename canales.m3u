@@ -11,7 +11,7 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 http://181.78.79.131:8000/play/a0n4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tvn.png", TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?_=1792189413921&dnt=true&dual_render=1&player=57f40bb4dc5b9f3075c49cfe&access_token=2DAo0kw3F0fuR7uge9WzcYHr98y8cWpEQ5gBeOT4IIOc4N3n0JcWmmMOCc32tG4KR1JHwiO1POj&uid=rMMFczbYBsqq6d62h3C3O13oMGacfJAI&sid=ZoOeQeReL6wysMNlBZ5ff2t4tGO4apdi&pid=qElrgjKZseLBa8KDahZPSA35lV9TabtH&an=tvn-play-app-lg-tv&at=web-app&av=v1.0.112&sc=0&ds=606b65ac3572d907cd53753b&ref=mdstrm.com&res=1920x1080&ext_pb=0&adInsertionGoogleStreamId=e61642a1-ffc6-4a16-8a9d-c8fd19d51ce5%3ASCL2&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22qElrgjKZseLBa8KDahZPSA35lV9TabtH%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/24%20horas.png", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
