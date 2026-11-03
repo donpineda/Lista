@@ -17,7 +17,7 @@ https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/cnn-chile.png", CNN Chile
-http://170.82.113.51:8899/play/a0qg/index.m3u8
+http://190.151.80.244:9990/play/a0l2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/t13.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
