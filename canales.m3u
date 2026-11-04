@@ -35,3 +35,7 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-logo="", ESPN Premium
 http://181.78.79.131:8000/play/a0r2
 
+
+#EXTINF:-1 tvg-logo="", HISTORY
+http://138.121.15.230:9002/HISTORY-CHANNEL/index.m3u8
+
