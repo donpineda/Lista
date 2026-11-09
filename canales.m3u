@@ -29,6 +29,9 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/ufro.png", Ufrovisión 
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-name="Chile Informa" tvg-logo="https://cdn.m3u.cl/logo/1674_Chile_Informa.png", Chile Informa
+http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tntsportspremium.png", TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
