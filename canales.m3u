@@ -39,27 +39,27 @@ http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espnpremiun.png", ESPN Premium
 http://181.78.79.131:8000/play/a0r2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn1", ESPN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn1.png", ESPN 1
 http://181.78.12.119:16123/play/ch16/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn2", ESPN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn2.png", ESPN 2
 http://181.224.200.5:2277/play/a02c/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn3" group-title="Sports",ESPN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn3.png" group-title="Sports",ESPN 3
 http://181.78.12.119:16123/play/ch18/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn4",ESPN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn4.png",ESPN 4
 http://181.78.12.119:16123/play/ch90/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn5",ESPN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn5.png",ESPN 5
 http://181.78.12.119:16123/play/ch19/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn6",ESPN 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn6.png",ESPN 6
 http://181.224.200.5:2277/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/espn7.png",ESPN 7
