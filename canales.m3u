@@ -54,6 +54,10 @@ https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
 http://181.78.12.119:16123/play/ch90/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/ESPN_5_(Latinoam%C3%A9rica)#/media/Archivo:ESPN_5_logo.svg",ESPN 5
+http://181.78.12.119:16123/play/ch19/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/history.png", HISTORY
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 
