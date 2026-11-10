@@ -33,6 +33,10 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3
 http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tntsports.png", TNT Sports
+http://209.45.101.130:8040/play/a03s/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/donpineda/Lista/refs/heads/main/logos/tntsportspremium.png", TNT Sports Premium
 http://181.78.79.131:8000/play/a0q9
 
